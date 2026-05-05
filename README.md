@@ -81,8 +81,7 @@ This project was developed **end-to-end by a single engineer** — covering hard
 
 ### Schematic / 線路圖
 
-> 📷 _Place schematic screenshot here / 放置線路圖截圖_
-> `![Schematic](assets/schematic.png)`
+![Schematic](assets/schematic.png)
 
 ### PCB Layout
 
