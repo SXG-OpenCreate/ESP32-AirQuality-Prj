@@ -216,4 +216,5 @@ If you're interested in commissioning similar embedded systems or IoT projects, 
 
 如果您對委託類似的嵌入式系統或 IoT 專案有興趣，歡迎與我聯絡。
 
-> _[ Your name / GitHub profile / email / LinkedIn ]_
+- GitHub: [SXG-OpenCreate](https://github.com/SXG-OpenCreate)
+- Email: luke.sxg [at] gmail [dot] com
