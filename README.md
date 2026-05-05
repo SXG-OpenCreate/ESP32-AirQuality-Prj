@@ -51,8 +51,7 @@ This project was developed **end-to-end by a single engineer** — covering hard
                   └─────────────┘
 ```
 
-> `📷 _Place system architecture diagram here / 放置系統架構圖_`
-> ![Architecture](assets/architecture.png)
+ ![Architecture](assets/architecture.png)
 
 ---
 
