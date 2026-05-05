@@ -146,9 +146,6 @@ This project was developed **end-to-end by a single engineer** — covering hard
 - Watchdog and error recovery
   看門狗與錯誤恢復機制
 
-> ⚠️ Firmware source code is proprietary and not included in this repository.
->
-> ⚠️ 韌體原始碼為公司財產，不包含於此 Repository。
 
 ---
 
@@ -167,17 +164,14 @@ This project was developed **end-to-end by a single engineer** — covering hard
 
 ### ThingsBoard Dashboard
 
-> 📷 _Place ThingsBoard dashboard screenshot here / 放置 ThingsBoard Dashboard 截圖_
-> `![Dashboard](assets/dashboard.png)`
+
+![Dashboard](assets/dashboard.png)
 
 Dashboard features / Dashboard 功能：
 - Real-time time-series charts per gas channel / 各氣體通道即時時序圖表
 - Color-coded threshold indicators / 顏色編碼閾值警示
 - Multi-device management panel / 多裝置管理面板
 
-> ⚠️ Dashboard configuration and tenant credentials are not included.
->
-> ⚠️ Dashboard 設定與帳戶資訊不包含於此 Repository。
 
 ---
 
