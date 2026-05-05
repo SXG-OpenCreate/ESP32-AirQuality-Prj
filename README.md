@@ -127,8 +127,7 @@ This project was developed **end-to-end by a single engineer** — covering hard
 
 ### Development Environment Screenshot / 開發環境截圖
 
-> 📷 _Place VSCode + PlatformIO screenshot here / 放置 VSCode + PlatformIO 截圖_
-> `![IDE Screenshot](assets/ide_vscode.png)`
+![IDE Screenshot](assets/ide_vscode.png)
 
 ### Key Firmware Responsibilities / 韌體主要功能
 
