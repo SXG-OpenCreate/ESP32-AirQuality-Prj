@@ -93,8 +93,8 @@ This project was developed **end-to-end by a single engineer** — covering hard
 
 ### Assembled Board / 實體板子
 
-> 📷 _Place physical board photo here / 放置實體板子照片_
-> `![Assembled Board](assets/board_photo.jpg)`
+![Assembled Board1](assets/board_photo1.jpg)
+![Assembled Board2](assets/board_photo2.jpg)
 
 ### Sensor Modules / 感測器模組
 
