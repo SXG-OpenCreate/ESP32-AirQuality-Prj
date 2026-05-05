@@ -85,13 +85,11 @@ This project was developed **end-to-end by a single engineer** — covering hard
 
 ### PCB Layout
 
-> 📷 _Place PCB layout screenshot here / 放置 PCB Layout 截圖_
-> `![PCB Layout](assets/pcb_layout.png)`
+![PCB Layout](assets/pcb_layout.png)
 
 ### 3D PCB View / 3D PCB 視圖
 
-> 📷 _Place 3D PCB render here / 放置 3D PCB 圖_
-> `![3D PCB](assets/pcb_3d.png)`
+![3D PCB](assets/pcb_3d.png)
 
 ### Assembled Board / 實體板子
 
